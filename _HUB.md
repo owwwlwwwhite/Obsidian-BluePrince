@@ -1,5 +1,4 @@
 tags
-```
 #type/room
 #type/item
 #type/document - for diffrent notes finded
@@ -12,4 +11,3 @@ tags
 #status/new - not used
 #status/used
 #status/deadend - not usefull anymore
-```
