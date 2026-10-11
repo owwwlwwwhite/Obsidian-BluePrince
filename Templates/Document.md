@@ -2,7 +2,9 @@
 tags:
   - type/document
 ---
-**Discription**
+# **Discription**
+---
+
 Open only in the event of my death
 
 ---
@@ -17,15 +19,37 @@ By the time you read this I will assume you are fully aware of my last wishes an
 
 ---
 
+With that said, there are a few ground rules of this commission covered in the fine print of my will that I feel I should bring to your attention:
 
+- NO TOOLS OR ITEMS MAY BE BROUGHT ONTO THE ESTATE FROM THE OUTSIDE.
 
-**Persons**
+- TOOLS & ITEMS FOUND ON THE ESTATE MAY NOT BE TAKEN OFF THE ESTATE.
+
+- YOU MAY NOT STAY OVERNIGHT.
+
+I don't suspect that any of these stipulations should prove an impediment for someone as resourceful as yourself but it is very important to me that you "start fresh" each morning and not rely on the successes of the previous day.
+
+---
+
+One final word of advice:
+
+Do not assume the rooms you find today will be the same rooms you find tomorrow. These grounds have provided me a home for the last half century and even I am uncertain of which room lies beyond any particular door.
+
+Your grandmother used to say, =="Don't go where the path leads. Abandon the path and go where you want it to lead."==
+
+With all my love and wishes, Best of luck.
+
+Herbert ...
+
+---
+# **Persons**
 - 
 
 **Events**
 - 
 
 **Attachments**
-![[Pasted image 20261011124814.png]]
-![[Pasted image 20261011124958.png]]
-![[Pasted image 20261011125214.png]]
+![[Pasted image 20261011124814.png|389]]
+![[Pasted image 20261011124958.png|382]]
+![[Pasted image 20261011125214.png|383]]
+![[Pasted image 20261011125538.png|376]]
