@@ -16,7 +16,11 @@ Always your friend, M. Lowry
 
 ---
 
+THERE WILL ALWAYS BE AT LEAST ONE BOX WHICH DISPLAYS ONLY TRUE STATEMENTS.
 
+THERE WILL ALWAYS BE AT LEAST ONE BOX WHICH DISPLAYS ONLY FALSE STATEMENTS.
+
+ONLY ONE BOX HAS A PRIZE WITHIN. THE OTHER 2 ARE ALWAYS EMPTY.
 
 ---
 # **Persons**
@@ -30,4 +34,5 @@ Always your friend, M. Lowry
 - 
 
 # **Attachments**
-![[Pasted image 20261011142537.png|484]]
+![[Pasted image 20261011142537.png|436]]
+![[Pasted image 20261011143143.png|426]]
