@@ -10,3 +10,9 @@ Can login to terminal. require password
 
 # Attachment
 ![[Pasted image 20261011140725.png]]
+# Network menu
+![[Pasted image 20261011161601.png]]
+![[Pasted image 20261011161618.png]]
+![[Pasted image 20261011161655.png]]
+![[Pasted image 20261011161452.png]]
+
