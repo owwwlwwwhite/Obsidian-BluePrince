@@ -1,3 +1,6 @@
+[[00 main lead]]
+[[00 Rules - common]]
+
 tags
 #type/room
 #type/item
