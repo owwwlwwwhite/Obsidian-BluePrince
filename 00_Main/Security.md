@@ -16,6 +16,9 @@ tags:
 **Rules**
 - [[Rules - common]]
 
+**Lead**
+- [[Security note of memos]]
+
 **Attachments**
 ![[Pasted image 20261011134156.png|413]]
 ![[Pasted image 20261011134214.png|421]]
