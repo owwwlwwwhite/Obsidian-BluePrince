@@ -2,7 +2,10 @@
 tags:
   - type/rule
 ---
-[[Parlor room]]
+
+there will be 5 apples, oranges, banans in entane - [[To bridgette from pantry room]]
+
+[[Parlor boxes game]]
 THERE WILL ALWAYS BE AT LEAST ONE BOX WHICH DISPLAYS ONLY TRUE STATEMENTS.
 THERE WILL ALWAYS BE AT LEAST ONE BOX WHICH DISPLAYS ONLY FALSE STATEMENTS.
 ONLY ONE BOX HAS A PRIZE WITHIN. THE OTHER 2 ARE ALWAYS EMPTY.
