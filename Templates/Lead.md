@@ -2,8 +2,8 @@
 tags:
   - type/lead
 ---
-**Описание**
+**Description**
 хз
 
-**Связанные заметки**
+**Linked notes**
 - 
