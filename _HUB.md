@@ -12,11 +12,23 @@ tags
 #status/used
 #status/deadend - not usefull anymore
 
+## Description
+- 
 ## Room
+- 
 ## Item
+- 
 ## Document
+- 
 ## Rule
+- 
 ## Password
+- 
 ## Person
+- 
 ## Event
-## L
+- 
+## Lead
+- 
+## Attachment
+- 

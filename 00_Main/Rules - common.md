@@ -1,3 +1,8 @@
+---
+tags:
+  - type/rule
+---
+
 [[Security]]
 Red memos are lie - so just invert and they will be true
 blue memos are true

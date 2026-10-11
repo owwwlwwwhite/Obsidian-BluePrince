@@ -10,9 +10,9 @@ Effective the first week of December, Payroll for all Live-out and Seasonal Staf
 
 ==Two of these terminals== can be found at [[Security]] (where the punch-clock used to be) and in the [[Laboratory]].
 
-Any questions or concerns regarding this process should be directed as always to our House Manager [[Mrs. Babbage]].
+Any questions or concerns regarding this process should be directed as always to our ==House Manager== [[Mrs. Babbage]].
 
-TERMINAL PASSWORD: (Scrumbled)
+==TERMINAL PASSWORD==: (Scrumbled)
 
 ---
 # **Persons**
