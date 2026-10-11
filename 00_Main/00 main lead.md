@@ -6,7 +6,7 @@ Objecives main
 - need to reach [[Antechamber]]
 - need to rach [[Room 46]]
 
-need [[Terminal password - SWANSONG]] for [[Terminal]] to log in. should be numeric? according to [[Staff Notice]]
+need [[Terminal password - SWANSONG]] for [[Security terminal]] to log in. should be numeric? according to [[Staff Notice]]
 
 [[Breaker]] from [[Utility closet room]] can switch off rooms (Gymnasium, Dark room, Garage, Cabinet)
 

@@ -5,7 +5,7 @@ tags:
 **Discription**
 
 **Items**
-- [[Terminal]]
+- [[Security terminal]]
 
 **Documents**
 - [[Staff Notice]]

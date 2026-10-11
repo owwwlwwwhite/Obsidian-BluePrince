@@ -15,4 +15,7 @@ Can login to terminal. require password
 ![[Pasted image 20261011161618.png]]
 ![[Pasted image 20261011161655.png]]
 ![[Pasted image 20261011161452.png]]
-
+![[Pasted image 20261011161944.png]]
+![[Pasted image 20261011161909.png]]
+![[Pasted image 20261011162007.png]]
+![[Pasted image 20261011162113.png]]
