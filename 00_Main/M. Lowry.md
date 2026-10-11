@@ -2,5 +2,5 @@
 tags:
   - type/person
 ---
-[[Herbert ...]] and [[Oldhams]] friend
+[[Herbert Sinclair]] and [[Oldhams]] friend
 have a wife

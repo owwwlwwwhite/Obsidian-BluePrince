@@ -43,7 +43,7 @@ Herbert ...
 
 ---
 # **Persons**
-- [[Herbert ...]]
+- [[Herbert Sinclair]]
 - [[Grandmother]]
 
 # **Events**
