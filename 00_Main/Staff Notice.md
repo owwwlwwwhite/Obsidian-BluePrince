@@ -12,7 +12,7 @@ Effective the first week of December, Payroll for all Live-out and Seasonal Staf
 
 Any questions or concerns regarding this process should be directed as always to our ==House Manager== [[Mrs. Babbage]].
 
-==TERMINAL PASSWORD==: SWANSONG (according to magnific)
+[[Terminal password - SWANSONG]]: (Scrumble) (SWANSONG) (according to magnificant glass)
 
 ---
 # **Persons**
