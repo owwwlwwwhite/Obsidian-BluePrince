@@ -1,6 +1,13 @@
 tags
 ```
-#
+#type/room
+#type/item
+#type/document
+#type/rule
+#type/password
+#type/person
+#type/event
+#type/lead
 #тип/предмет
 #тип/записка
 #тип/правило
