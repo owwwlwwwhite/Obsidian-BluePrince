@@ -2,21 +2,14 @@ tags
 ```
 #type/room
 #type/item
-#type/document
-#type/rule
-#type/password
+#type/document - for diffrent notes finded
+#type/rule - for game rules or puzzles rules 
+#type/password - diffrent suspicios combinations
 #type/person
-#type/event
-#type/lead
-#тип/предмет
-#тип/записка
-#тип/правило
-#тип/пароль
-#тип/персонаж
-#тип/событие
-#тип/зацепка
+#type/event - event with some person
+#type/lead - diff thoutghs
 
-#статус/новая
-#статус/использованная
-#статус/тупик
+#status/new - not used
+#status/used
+#status/deadend - not usefull anymore
 ```
