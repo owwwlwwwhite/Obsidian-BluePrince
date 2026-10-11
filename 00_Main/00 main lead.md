@@ -8,7 +8,7 @@ Objecives main
 
 need [[Terminal password]] for [[Terminal]] to log in. should be numeric? according to [[Staff Notice]]
 
-[[Breaker]] from [[Breaker room]] can switch off rooms (Gymnasium, Dark room, Garage, Cabinet)
+[[Breaker]] from [[Utility closet room]] can switch off rooms (Gymnasium, Dark room, Garage, Cabinet)
 
 [[Garage room]] is toggled off by default in [[Breaker]]
 
