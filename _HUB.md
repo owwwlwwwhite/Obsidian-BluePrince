@@ -11,3 +11,12 @@ tags
 #status/new - not used
 #status/used
 #status/deadend - not usefull anymore
+
+## Room
+## Item
+## Document
+## Rule
+## Password
+## Person
+## Event
+## L
