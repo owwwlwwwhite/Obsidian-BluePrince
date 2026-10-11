@@ -8,7 +8,7 @@ tags:
 - [[Terminal]]
 
 **Documents**
-- 
+- [[Staff Notice]]
 
 **Passwords**
 - 
