@@ -14,7 +14,7 @@ tags:
 - 
 
 **Rules**
-- [[Rules - common]]
+- [[00 Rules - common]]
 
 **Lead**
 - [[Security note of memos]]

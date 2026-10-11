@@ -6,5 +6,5 @@ tags:
 It has some strange string under note about red memos
 
 **Linked notes**
-- [[Rules - common]]
+- [[00 Rules - common]]
 - [[Security]]
