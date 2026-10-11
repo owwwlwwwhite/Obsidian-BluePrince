@@ -19,3 +19,7 @@ I can toggle off Keycard entry system by [[Breaker]]
 
 [[Chapel]] have strange numbered stained-glass windows with diff professions on them
 also 4 statues of diff professions
+
+suspicios dirt heap and wooden plank in [[Countryard]]
+
+[[Theater and flower memos pictures]] does it mean
