@@ -23,4 +23,5 @@ also 4 statues of diff professions
 suspicios dirt heap and wooden plank in [[Countryard]]
 
 [[Theater and flower memos pictures]] does it mean something?
+
 [[OFFICE SAFE]]: [[Safe code red memo in conference room]] is not 9083 and placed in Office

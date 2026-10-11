@@ -9,7 +9,7 @@ tags:
 - [[OFFICE SAFE]]
 
 **Documents**
-- [[Reminder in conference room]]
+- [[Reminder about conference notes in the ofice safe from conference room]]
 - [[Safe code red memo in conference room]]
 
 **Passwords**
