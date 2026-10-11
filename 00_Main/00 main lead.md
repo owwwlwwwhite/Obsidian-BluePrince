@@ -23,4 +23,4 @@ also 4 statues of diff professions
 suspicios dirt heap and wooden plank in [[Countryard]]
 
 [[Theater and flower memos pictures]] does it mean something?
-Safe code is not 90
+[[Safe code red memo in conference room]] is not 9083
